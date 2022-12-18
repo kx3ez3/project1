@@ -6,6 +6,7 @@ export class MovieView extends React.Component{
     constructor(){
         super()
     }
+    
     componentDidMount(){
         this.getData()
     }
